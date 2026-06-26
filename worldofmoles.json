@@ -1,0 +1,180 @@
+{
+  "title": "World of Moles",
+  "description": "A tour of completely unrelated animals that all independently became moles.",
+  "author": "OneZoom",
+  "image_url": "https://commons.wikimedia.org/wiki/File:Close-up_of_mole.jpg",
+
+  "tourstop_shared": {
+    "fly_in_speed": 0.8,
+    "stop_wait": 45000,
+    "qs_opts": "highlight=fan:rgb(130,130,247)@=117569"
+  },
+
+  "tourstops": [
+    {
+      "identifier": "Intro",
+      "qs_opts": "highlight=path:rgb(240,228,66)@=117569@=222358&highlight=path:rgb(204,121,167)@=117569@=692682&highlight=path:rgb(148,103,189)@=117569@=1048195&highlight=path:rgb(0,114,178)@=117569@=852222&highlight=path:rgb(0,158,115)@=117569@=1031850&highlight=path:rgb(213,94,0)@=117569@=690599&highlight=path:rgb(86,180,233)@=117569@=202336&highlight=path:rgb(230,159,0)@=117569@=888279",
+      "ott": "117569",
+      "template_data": {
+        "visible-transition_in": true,
+        "title": "Moles Everywhere",
+        "window_text": [
+          "What do a mammal from Europe, two African rodents, a shiny mammal from Africa, a marsupial, a lizard, a cricket, and a crab have in common? Evolution looked at all of them and decided they should be moles. They're separated by hundreds of millions of years of evolution, but they all converged on similar body plans. They faced the same problem: how do you live most of your life underground? The colored paths on OneZoom lead to eight completely separate attempts at solving that problem. Throughout this tour, we will see why evolution keeps making moles."
+        ],
+        "media": [
+          "https://commons.wikimedia.org/wiki/File:Close-up_of_mole.jpg"
+        ]
+      }
+    },
+    {
+      "identifier": "The mole blueprint",
+      "qs_opts": "highlight=path:rgb(240,228,66)@=117569@=222358&highlight=path:rgb(204,121,167)@=117569@=692682&highlight=path:rgb(148,103,189)@=117569@=1048195&highlight=path:rgb(0,114,178)@=117569@=852222&highlight=path:rgb(0,158,115)@=117569@=1031850&highlight=path:rgb(213,94,0)@=117569@=690599&highlight=path:rgb(86,180,233)@=117569@=202336&highlight=path:rgb(230,159,0)@=117569@=888279",
+      "ott": "117569",
+      "template_data": {
+        "visible-transition_in": true,
+        "title": "What is a Mole?",
+        "window_text": [
+          "When living underground, there are a ton of differences that need to be adapted for. For example, sunlight just... isn't a thing. As a matter of fact, the entire concept of seeing things is irrelevant. Animals that adapt to life underground tend to do away with eyes and ears, and develop long, tubelike bodies. Additionally, some part of their body at the front becomes shovel shaped, normally their hands. Touch, smell, and sensing vibrations are their most important and well-developed senses. This is convergent evolution, unrelated organisms independently arriving at similar traits because they are in similar conditions."
+        ],
+        "media": [
+          "https://commons.wikimedia.org/wiki/File:Talpa_europaea_MHNT_Tete.jpg"
+        ]
+      }
+    },
+    {
+      "identifier": "True moles",
+      "qs_opts": "highlight=path:rgb(240,228,66)@=117569@=222358&highlight=fan:rgb(240,228,66)@=222358",
+      "ott": "222358",
+      "template_data": {
+        "visible-transition_in": true,
+        "title": "The Baseline: True Moles",
+        "window_text": [
+          "True moles belong to the family Talpidae. They are relatives of hedgehogs and shrews. The most specialized species have front limbs that look like massive shovels. They use their massive shovel hands, along with powerful arm muscles, to quickly power through dirt. Their eyes only detect light and their ears are covered by skin. Their snouts are highly sensitive and very pointy, and they have a tubelike body for squeezing through tight tunnels. In the video below, you can see their incredibly pointy nose and their amazing tunneling ability."
+        ],
+        "media": [
+          "https://www.youtube.com/embed/_5u65moIxJY"
+        ]
+      }
+    },
+    {
+      "identifier": "Mole-rats",
+      "qs_opts": "highlight=path:rgb(204,121,167)@=117569@=692682&highlight=fan:rgb(204,121,167)@=692682",
+      "ott": "692682",
+      "template_data": {
+        "visible-transition_in": true,
+        "title": "Mole-rats: The Main Rodent Moles",
+        "window_text": [
+          "The closest mole impersonators in this tour are the mole-rats. They are rodents, making them closer to mice, guinea pigs, and porcupines than to true moles. In terms of their behavior, it's extremely molelike. They spend their lives tunneling through dirt. Amazingly, as you can probably guess from the picture, mole-rats dig with their teeth! Instead of using their arms, they scoop up sediment with their shovely pairs of teeth. They independently evolved the tiny eyes, missing ears, powerful front end, and tubelike body of other moles."
+        ],
+        "media": [
+          "https://commons.wikimedia.org/wiki/File:Damaraland_mole-rat.jpg"
+        ]
+      }
+    },
+    {
+      "identifier": "Naked mole-rats",
+      "qs_opts": "highlight=path:rgb(148,103,189)@=117569@=1048195&highlight=fan:rgb(148,103,189)@=1048195",
+      "ott": "1048195",
+      "template_data": {
+        "visible-transition_in": true,
+        "title": "Naked Mole-rats: The Ants of the Mole World",
+        "window_text": [
+          "Naked mole-rats are part of a separate family from the other mole-rats. They are sister groups; however, they adapted to life underground in completely different ways from any other mole-rat. They live in massive colonies, in which there is a breeding queen and multiple social roles. Yes, they literally have a queen. Societally, they resemble ants, bees, and termites more than they do other mammals! This is called eusociality, and it has evolved in only a few animal groups. They also have highly wrinkly, hairless bodies, hence their very creative name. Like other mole-rats, they dig using their massive, spoonlike teeth."
+        ],
+        "media": [
+          "https://commons.wikimedia.org/wiki/File:Webs180130-rat.jpg"
+        ]
+      }
+    },
+    {
+      "identifier": "Golden moles",
+      "qs_opts": "highlight=path:rgb(204,121,167)@=117569@=852222&highlight=fan:rgb(204,121,167)@=852222",
+      "ott": "852222",
+      "template_data": {
+        "visible-transition_in": true,
+        "title": "Golden Moles: The Elephant Variant",
+        "window_text": [
+          "Golden moles look identical to true moles, until you take a closer look. Three traits you might notice from the image below are that they tend to have wider noses, smaller hands, and a golden body. Other than these, they are essentially identical to true moles in how they behave and look. They have the extremely pointy nose, the lack of external eyes or ears, and the same tubelike body. Believe it or not, these guys are more closely related to elephants than they are to either true moles or mole-rats! Some features they share with elephants, and don't share with true moles, are internal testes and an insane resistence to drought. Additionally, the way they dig is completely unique, as they use their thick nose to plow through sand, as opposed to using their hands."
+        ],
+        "media": [
+          "https://commons.wikimedia.org/wiki/File:The_Juliana%E2%80%99s_golden_mole_is_one_of_Africa%E2%80%99s_most_threatened_mammals_Jackson.png"
+        ]
+      }
+    },
+    {
+      "identifier": "Marsupial moles",
+      "qs_opts": "highlight=path:rgb(0,158,115)@=117569@=1031850&highlight=fan:rgb(0,158,115)@=1031850",
+      "ott": "1031850",
+      "template_data": {
+        "visible-transition_in": true,
+        "title": "Marsupial Moles: Australia's Attempt",
+        "window_text": [
+          "Australia saw the mole design and decided it needed one too. Marsupial moles are more closely related to kangaroos and koalas than to any group we've talked about. They move through loose sand using two enormous claws on each front foot, while a large nose shield protects their face. Their eyes and ears are reduced beneath the skin, like with true moles. Since they are a marsupial, they have some really unique traits from other moles, such as a pouch! But even their pouch is adapted for underground life, as it opens backwards. This is extremely useful when your daily schedule involves aggressively swimming through sand."
+        ],
+        "media": [
+          "https://commons.wikimedia.org/wiki/File:PSM_V40_D672_The_new_mammal_notoryctes_typhlops.jpg"
+        ]
+      }
+    },
+    {
+      "identifier": "Worm lizards",
+      "qs_opts": "highlight=path:rgb(213,94,0)@=117569@=690599&highlight=fan:rgb(213,94,0)@=690599",
+      "ott": "690599",
+      "template_data": {
+        "visible-transition_in": true,
+        "title": "Worm Lizards: The Reptile Variant",
+        "window_text": [
+          "Mammals are just one group in the massive web of life, but no animal group is safe from moleification! Worm lizards, or amphisbaenians, are an example of how even reptiles can develop molelike traits. Instead of using shovel hands or powerful noses, they use their entire body as a shovel. They have a pointy head and a snakelike, elongated body, allowing them to push through soil using everything. One genus, Bipes (shown in the picture below), actually has tiny legs and hands at the front of its body, increasing the moleyness of them."
+        ],
+        "media": [
+          "https://commons.wikimedia.org/wiki/File:Bipes_biporus1.jpg"
+        ]
+      }
+    },
+    {
+      "identifier": "Mole crickets",
+      "qs_opts": "highlight=path:rgb(0,114,178)@=117569@=202336&highlight=fan:rgb(0,114,178)@=202336",
+      "ott": "202336",
+      "template_data": {
+        "visible-transition_in": true,
+        "title": "Mole Crickets: The Insect Variant",
+        "window_text": [
+          "The next animal we're going to talk about last shared a common ancestor with true moles over 550 million years ago! Mammals and reptiles are not alone in adopting the mole form. Mole crickets are crickets with front legs that look like spiked shovels. Additionally, they have elongated, tubular bodies, and spend their entire lives making elaborate underground tunnel networks. Interestingly, they maintain some major traits of other crickets, such as relying on sound to attract mates. The males will even form their burrows in a way that amplifies the sound of their calls to the outside world. Their tunnels literally come with free music, arguably making them ten times more inviting than the average true mole's tunnels. I'm sorry to the true moles out there, but mole crickets definitely have cooler tunnels."
+        ],
+        "media": [
+          "https://commons.wikimedia.org/wiki/File:Mole_cricket02.jpg"
+        ]
+      }
+    },
+    {
+      "identifier": "Mole crabs",
+      "qs_opts": "highlight=path:rgb(230,159,0)@=117569@=888279&highlight=fan:rgb(230,159,0)@=888279",
+      "ott": "888279",
+      "template_data": {
+        "visible-transition_in": true,
+        "title": "Mole Crabs: The Underwater Variant",
+        "window_text": [
+          "Mole crabs, our final group, are neither moles nor crabs. As a matter of fact, they are not closely related to either of those groups. They are master imitators. They share many traits with every other animal we've talked about on this tour, such as a tubelike body, reduced eyes and ears, and shovelly claws. The biggest difference with everything we've seen is that they live underwater! Instead of making elaborate tunnels, they quickly burrow right below the surface, then filter feed using feathery antennae. The mole design even works underwater."
+        ],
+        "media": [
+          "https://commons.wikimedia.org/wiki/File%3AEmeritaanaloga.jpg"
+        ]
+      }
+    },
+    {
+      "identifier": "Conclusion",
+      "qs_opts": "highlight=path:rgb(240,228,66)@=117569@=222358&highlight=path:rgb(204,121,167)@=117569@=852222&highlight=path:rgb(0,158,115)@=117569@=1031850&highlight=path:rgb(0,114,178)@=117569@=202336&highlight=path:rgb(213,94,0)@=117569@=690599&highlight=path:rgb(86,180,233)@=117569@=118027",
+      "ott": "117569",
+      "template_data": {
+        "visible-transition_in": true,
+        "title": "Everything is a Mole",
+        "window_text": [
+          "The general mole shape is highly effective for underground life. Whether creatures are in deserts, forests, or even underwater, being underground is an amazingly safe and effective niche. The animals we have seen on this tour are separated by over 550 million years in some instances, but converged on the classic tubelike body, reduced eyes and ears, and shovel appendages of moles. Evolution doesn't plan ahead, but when the same challenge appears over and over again, it can produce results that look very familiar. On OneZoom, their paths are scattered across the animal tree. In the dirt, they're all united by looking like moles."
+        ],
+        "media": [
+          "https://commons.wikimedia.org/wiki/File:Close-up_of_mole.jpg"
+        ]
+      }
+    }
+  ]
+}
